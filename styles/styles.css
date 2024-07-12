@@ -1,0 +1,328 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: 'KZ Hagin Caps';
+    src: url('../fonts/KZ Hagin Caps Medium.otf');
+}
+@font-face{
+    font-family: 'Inter-Medium';
+    src: url('../fonts/Inter-Medium.ttf');
+}
+@font-face{
+    font-family: 'Inter-Regular';
+    src: url('../fonts/Inter-Regular.otf');
+}
+
+.fp{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.hagin{
+    font-family: "KZ Hagin Caps", sans-serif;
+    font-size: 64px;
+    text-align: center;
+    font-style: normal;
+    color: #01114D;
+}
+.mainword{
+    font-family: "Inter-Medium" , sans-serif;
+    font-style: normal;
+    text-align: justify;
+    color: #01114D;
+    font-size: 30px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 0;
+}
+.champagne{
+    width: 350px;
+    height: 390px;
+}
+.topic{
+    color: #01114D;
+    font-size: 30px;
+    font-family: "Inter-Regular", sans-serif;
+}
+.sp{
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 0;
+}
+.date{
+    margin-top: -87px;
+    width: 74px;
+    height: 174px;
+    font-family: "Inter-Medium", sans-serif;
+    font-style: normal;
+    font-size: 48px;
+    color: #01114D;
+    margin-left: 276px;
+    line-height: 120%;
+}
+.inviteword{
+    font-family: "Inter-Medium", sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    color: #01114D;
+
+}
+.invited{
+    width: 141px;
+    height: 51px;
+}
+.weddingword{
+    width:194px;
+    height: 68px;
+    margin-left: 156px;
+}
+.grass{
+    margin-left: 186px;
+    margin-top: -95px;
+}
+.discoball{
+    margin-top: -225px;
+}
+.tg_blue{
+    background-color: #01114D;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 0;
+    width: 350px;
+    height: 390px;
+}
+.firework{
+padding-bottom: 0 ;
+    padding-top: 15px;
+
+}
+.white{
+    font-family: "Inter-Medium" , sans-serif;
+    font-style: normal;
+    text-align: justify;
+    color: white;
+    font-size: 30px;
+    padding-top:20px;
+    margin-left: 20px;
+    margin-right: 36px;
+}
+.tgword{
+    width: 250px;
+    height: 106px;
+    text-align: justify;
+    padding-left: 20px;
+    color: white;
+    font-family: "Inter-Regular" , sans-serif;
+    font-size: 14px;
+    padding-top: 15px;
+}
+.vector{
+    padding-left: 249px;
+    margin-top: -300px;
+}
+.tg_vector{
+    padding-right: 20px;
+    margin-top:-154px;
+}
+.tp{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.datescape{
+    margin-top: -32px;
+    margin-left: 146px;
+    width: 204px;
+    height: 68px;
+    color: #01114D;
+    font-family: "Inter-Medium" , sans-serif;
+    font-size: 14px;
+    text-align: right;
+
+}
+.hagind{
+    font-family: "KZ Hagin Caps" , sans-serif;
+    font-size: 32px;
+    color: black;
+    padding-top:19px;
+}
+.metr{
+    margin-left: 69px;
+    margin-top: -25px;
+
+}
+.cake{
+    margin-left: 177px;
+    margin-top: -150px;
+}
+.fp{
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-right: 20px;
+}
+.dress{
+    padding-top: 20px;
+}
+.swans{
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.rectanglem{
+    font-family: "Inter-Medium" , sans-serif;
+    font-size: 14px;
+    margin-top: 40px;
+    margin-left: 85px;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    background-color: #01114D;
+    text-align: center;
+    color: white;
+    padding-top: 16px;
+    text-decoration: none;
+}
+
+.rectanglew{
+    font-size: 14px;
+    font-family: "Inter-Medium" , sans-serif;
+    margin-left: 205px;
+    margin-top: -50px;
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    background-color: #01114D;
+    text-align: center;
+    color: white;
+    padding-top: 16px;
+    text-decoration: none;
+}
+a {
+    text-decoration: none; /* Убирает подчеркивание */
+    color: inherit; /* Делает цвет текста таким же, как у родительского элемента */
+}
+
+.jp{
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    background-color: #01114D;
+    width: 350px;
+    height: 238px;
+}
+.res1{
+    padding-left: 20px;
+    padding-top: 19px;
+}
+.res2{
+    padding-left: 177px;
+    margin-top: -250px;
+    margin-bottom: 18px;
+}
+.pword{
+    padding-right: 20px;
+    color: white;
+    font-family: "Inter-Regular" , sans-serif;
+    font-size: 14px;
+    padding-top: 5px;
+}
+.vector2{
+    padding-left: 13px;
+    padding-bottom: 30px;
+}
+.map{
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+.sig{
+    padding-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.suit{
+    font-family: "Inter-Medium" , sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-top: -830px;
+    margin-left: 20px;
+}
+.rectangleb{
+    font-family: "Inter-Medium" , sans-serif;
+    font-size: 14px;
+    margin-top: 40px;
+    margin-left: 20px;
+    border-radius: 5px;
+    width: 130px;
+    height: 50px;
+    background-color: #01114D;
+    text-align: center;
+    color: white;
+    padding-top: 16px;
+    text-decoration: none;
+}
+
+.rectanglewo{
+    font-size: 14px;
+    font-family: "Inter-Medium" , sans-serif;
+    margin-left: 250px;
+    margin-top: -50px;
+    border-radius: 5px;
+    width: 120px;
+    height: 50px;
+    background-color: #01114D;
+    text-align: center;
+    color: white;
+    padding-top: 16px;
+    text-decoration: none;
+}
+.suit1{
+    margin-top:-0px;
+}
+.suit2{
+    margin-top: -5px;
+}
+.rectangleb a,
+.rectanglewo a {
+    color: white; /* Цвет текста ссылок */
+    text-decoration: none; /* Убирает подчеркивание */
+}
+.dress{
+    font-family: "Inter-Medium" , sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-top: -830px;
+    margin-left: 20px;
+}
+
+.rectanglema{
+    font-size: 14px;
+    font-family: "Inter-Medium" , sans-serif;
+    margin-left: 250px;
+    margin-top: -50px;
+    border-radius: 5px;
+    width: 120px;
+    height: 50px;
+    background-color: #01114D;
+    text-align: center;
+    color: white;
+    padding-top: 16px;
+    text-decoration: none;
+}
+.dress1{
+    margin-top:-0px;
+}
+.dress2{
+    margin-top: -5px;
+}
+.rectangleb a,
+.rectanglema a {
+    color: white; /* Цвет текста ссылок */
+    text-decoration: none; /* Убирает подчеркивание */
+}
